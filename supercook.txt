@@ -1,3 +1,4 @@
+Setting.chipsipcmd
 camera_live_setting.asp
 camera_setting.asp
 camera_viewer.asp
